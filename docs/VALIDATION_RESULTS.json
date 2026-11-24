@@ -1,0 +1,20 @@
+{
+  "base": {
+    "paths": 2000,
+    "default_probability": 0.011,
+    "cash_out_probability": 0,
+    "mean_final_nav": 43.24
+  },
+  "stress_150bps_year3": {
+    "paths": 2000,
+    "default_probability": 0.998,
+    "cash_out_probability": 0,
+    "mean_final_nav": 10.03
+  },
+  "high_initial_spread": {
+    "paths": 2000,
+    "default_probability": 0,
+    "cash_out_probability": 0.1045,
+    "mean_final_nav": 81.71
+  }
+}
