@@ -59,6 +59,8 @@ tests/      Basic checks on recorded values
 
 ## Reproduction
 
+A lightweight GitHub Actions workflow runs the recorded-results integrity check on pushes and pull requests. It validates data formatting and probability bounds, not financial model correctness.
+
 1. Install dependencies: `python -m pip install -r requirements.txt`.
 2. Obtain source data **from an authorized provider**. Place local files in `data/` as described in [data instructions](data/README.md). No raw CSV or Excel data is included.
 3. Run Jupyter from the `notebooks/` directory and execute cells in order.
