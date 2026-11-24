@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+
+# Local-only market data (licensed source files are not distributed)
+data/*.csv
+data/*.xlsx
+data/*.xls
+!data/README.md
+!data/.gitkeep
+
+# Generated local scratch files
+*.log
