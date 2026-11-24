@@ -20,7 +20,6 @@ This project studies **Constant Proportion Debt Obligations (CPDOs)** through st
 | [Corrections and validation](docs/CORRECTIONS_AND_VALIDATION.md) | Changes made and unresolved model risks |
 | [Audit of original report](docs/RESULTS_AUDIT.md) | Inconsistencies and claims requiring verification |
 | [Original group report](docs/report_original_submission.md) | Historical submission, preserved with a warning |
-| [Contribution context](CONTRIBUTIONS.md) | Collaborative project and authorship note |
 | [Data instructions](data/README.md) | Input schemas; raw data are not redistributed |
 
 ## Selected exploratory results
@@ -84,7 +83,7 @@ See [corrected results](docs/CORRECTED_RESULTS.md), [corrections and validation]
 
 ## Collaboration and licensing
 
-This was a **university group project**, and the repository presents it as collaborative work. The contributor's described involvement covered a combination of modelling, coding, analysis, simulation and research/documentation tasks; the precise allocation across the group is not itemized.
+**Disclaimer:** This project was developed collaboratively as part of a university group assignment.
 
 No raw CSV/XLSX market datasets, presentation binaries or the original private repository's Git history are included. No open-source license is granted; reuse rights should be agreed by the project contributors. See [licensing status](LICENSE_NOT_INCLUDED.md).
 
